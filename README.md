@@ -1,4 +1,4 @@
-### Welcome to my GitHub! My interests include machine learning, computational neuroscience, and computer science!
+### Welcome to my GitHub! My interests include artificial intelligence, machine learning, computational neuroscience, and robotics!
 
 <!--
 **AaliyaJakir/aaliyajakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
